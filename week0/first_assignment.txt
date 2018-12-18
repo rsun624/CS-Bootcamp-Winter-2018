@@ -1,7 +1,8 @@
 1) What are three interesting facts about you?
-
+I am a member of Cal Band, I live in Connecticut (where I am completing this assignment!) and I own four pets
 
 2) What's your favorite song and movie?
-
+My favorite song is "Electric Love" and my favorite movie is "Good Will Hunting"
 
 3) Why do you want to learn how to program?
+Many of my friends are avid programmers and I am one of my few friends who hadn't even used a command prompt until today.
