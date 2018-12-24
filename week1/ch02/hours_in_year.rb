@@ -1,7 +1,1 @@
-# Print out the number of hours in a year
-# Should be an integer, and account for leap years.
-# If you're not sure what the rules for that are, Google it!
-# ... Seriously though, Googling things is highly underrated.
-
-
-### Your Code Here ###
+puts "A normal year has 365 days and a leap year has 366 days. Each day has 24 hours. If every four years there is one leap year, then that means that the average year has " + ((((365*3)+366)/4)*24).to_s + " hours."
