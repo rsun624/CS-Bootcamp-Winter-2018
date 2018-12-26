@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+puts "HEY YOU! WHAT DO YOU WANT!!!"
+request=gets.chomp
+puts "WHADDYA MEAN " + "\"" + request.upcase + "?!?\" YOU'RE FIRED!!"
